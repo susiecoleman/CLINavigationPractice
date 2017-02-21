@@ -20,5 +20,7 @@ Answer the following questions by navigating the file tree
 
 `cd ..` - Navigate to the directory above the current working directory.
 
+`cat fileName` - Prints the contents of filename to the terminal window.
+
 ## Useful Guides
 [CLI Guide](https://github.com/cb372/cli-tools-skills-amnesty)
