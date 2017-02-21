@@ -1,6 +1,7 @@
 Practise navigating a file structure from command line.
 
 Answer the following questions by navigating the file tree
+
 1. How many images of camels are there?
 2. How many years does the average emperor penguin live for?
 3. When is penguin awareness day?
