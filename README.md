@@ -10,6 +10,8 @@ Answer the following questions by navigating the file tree
 6. Which pug image features a puppy wearing a hat?
 
 ## Helpful commands
+### Unix machines
+
 `cd DirectoryName` - Change the current working directory
 
 `ls` - List all the files in the current working directory
@@ -21,6 +23,25 @@ Answer the following questions by navigating the file tree
 `cd ..` - Navigate to the directory above the current working directory.
 
 `cat fileName` - Prints the contents of filename to the terminal window.
+
+### Windows machines
+
+`c:`
+Change to the C drive
+
+`cd MyDirectory` 
+Move from your current directory to MyDirectory
+
+`cd ..`
+Move up a directory
+
+`cd`
+Show the directory you’re currently in. The equivalent of pwd on a unix machine 
+
+`dir` 
+Show the contents of the current directory. The equivalent of ls on a windows machine.
+
+`type fileName` - Prints the contents of filename to the terminal window.
 
 ## Useful Guides
 [CLI Guide](https://github.com/cb372/cli-tools-skills-amnesty)
