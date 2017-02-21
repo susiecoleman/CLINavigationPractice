@@ -11,9 +11,13 @@ Answer the following questions by navigating the file tree
 
 ## Helpful commands
 `cd DirectoryName` - Change the current working directory
+
 `ls` - List all the files in the current working directory
+
 `pwd` - Print the current working directory
+
 `open fileName` - Open the file
+
 `cd ..` - Navigate to the directory above the current working directory.
 
 ## Useful Guides
