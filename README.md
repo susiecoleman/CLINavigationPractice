@@ -47,5 +47,7 @@ Show the contents of the current directory. The equivalent of ls on a unix machi
 
 If your file name or directory name has spaces in it you will need to surround the name with double quotes otherwise the terminal will think it is the start of new command. e.g. `cd "my directory"`
 
+In windows 10.1 it is now possible run bash. [Set up instructions](https://msdn.microsoft.com/en-gb/commandline/wsl/about)
+
 ## Useful Guides
 [CLI Guide](https://github.com/cb372/cli-tools-skills-amnesty)
