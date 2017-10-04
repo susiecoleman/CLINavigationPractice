@@ -1,5 +1,14 @@
+# CLI Navigation Practice
+
 Practise navigating a file structure from command line.
 
+## Setup
+- Make sure you have [git installed](https://git-scm.com/downloads)
+- Open Terminal (Command Line on Windows)
+- [Clone](https://www.atlassian.com/git/glossary) this repository `git clone git@github.com:susiecoleman/CLINavigationPractice.git`
+- Change directory into this repository `cd CLINavigationPractice`
+
+## Questions
 Answer the following questions by navigating the file tree
 
 1. How many images of camels are there?
