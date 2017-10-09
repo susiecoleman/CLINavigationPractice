@@ -5,8 +5,15 @@ Practise navigating a file structure from command line.
 ## Setup
 - Make sure you have [git installed](https://git-scm.com/downloads)
 - Open Terminal (Command Line on Windows)
-- [Clone](https://www.atlassian.com/git/glossary) this repository `git clone git@github.com:susiecoleman/CLINavigationPractice.git`
+- Clone this repository (instructions below)
 - Change directory into this repository `cd CLINavigationPractice`
+
+## Clone This Repository 
+You can [Clone](https://www.atlassian.com/git/glossary) this repository using SSH or HTTPS. 
+### HTTPS
+`git clone https://github.com/susiecoleman/CLINavigationPractice.git`
+### SSH
+If you use SSH you need to generate an SSH key first using [this guide](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-mac). Then do `git clone git@github.com:susiecoleman/CLINavigationPractice.git`
 
 ## Questions
 Answer the following questions by navigating the file tree
